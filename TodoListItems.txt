@@ -1,0 +1,8 @@
+Mail birthday card	Buy a 30th birthday card for John	21-04-2018
+Doctor's Appointment	See Dr. Smith at 123 Main Street. Bring paperwork	15-03-2018
+Finish design proposal for client	I promised Mike I'd email website mockups by Friday 22nd April	23-03-2018
+Pickout Doug at the train station	Doug's arriving on March 24 on the 5:00 train	24-03-2018
+Pick up dry cleaning	The clothes should be ready by Wednesday	09-03-2018
+This is a new item	This is the details section of my new item.	07-03-2018
+Jody's new item	This is a test	09-03-2018
+A short test	This is a short test	16-03-2018
